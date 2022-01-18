@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Aleksei Pankov](https://up.htmlacademy.ru/htmlcss/33/user/1993751).
-* Наставник: Константин Соколов.
+* Наставник: [Константин Соколов] (https://htmlacademy.ru/profile/k_sokolov).
 
 ---
 
